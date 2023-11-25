@@ -21,7 +21,7 @@
 
 ## Projects
 ### Project: Data Analysis for a Food Aggregator Company
-[Publication]
+[Publication](https://github.com/xPoyo/xPoyo.github.io/blob/main/Proyect%20portfolio/Foodhub.html)
 
 In this project, I undertook an exciting challenge as a Data Scientist contracted by a leading food aggregation company. The objective was to analyze a comprehensive dataset of orders placed by customers through their online portal. The aim was to gain a detailed understanding of the demand for various restaurants partnered with the platform. This analysis was crucial for enhancing customer experience and ultimately driving business growth.
 
