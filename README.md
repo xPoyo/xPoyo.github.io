@@ -32,3 +32,22 @@ Data Collection and Cleaning: We began by ensuring the quality of collected data
 Exploratory Data Analysis (EDA): I conducted thorough analysis to identify patterns, trends, and anomalies in the order data.
 
 Data Visualization: I utilized tools like Python (with libraries like Matplotlib and Seaborn) to create intuitive visualizations that summarize key findings.
+
+
+### Project: Analysis of a New Landing Page for E-news Express
+[Publication](https://github.com/xPoyo/xPoyo.github.io/blob/main/Proyect%20portfolio/Noticia%20Express.html)
+
+In this project, I played a pivotal role as a Data Scientist at E-news Express, undertaking an in-depth analysis of a newly designed landing page. The design team developed this new page with an innovative layout and more relevant content compared to the existing one. The primary goal was to assess its effectiveness in attracting new subscribers.
+
+- Approach:
+
+Experiment Setup: To test the new page's efficacy, we conducted an experiment with 100 randomly selected users, split equally into two groups. The first group (control group) was shown the existing landing page, while the second group (treatment group) experienced the new landing page.
+
+Data Collection: We gathered data on user interaction with both versions of the landing page, focusing on key metrics of engagement and conversion.
+Statistical Analysis: Utilizing a 5% level of significance, I performed a comprehensive statistical analysis to answer critical questions:
+* Do users spend more time on the new landing page compared to the existing one?
+* Is the conversion rate (the ratio of users visiting the landing page and converting) of the new page higher than that of the previous one?
+* Does the converted status depend on the user's preferred language?
+* Is the time spent on the new page consistent across users of different languages?
+
+  
