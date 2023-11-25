@@ -4,11 +4,12 @@
 
 
 ## Education
-**BS in Industrial Engineering @ Universidad de las Américas Puebla (UDLAP)	(_2018-2022_)**
-- GPA of 3.7. Relevant courses: Uncertainty analysis, Integer and combinational optimization, Descriptive statistics, Python, Data science, Design of Experiments.
 
 **Post Graduate Program in Data Science and Business Analytics @ University of Texas at Austin	(_2023_)**
 - GPA of 4.2. Relevant courses: Business statistics, Supervised learning, Model tuning, Unsupervised learning, Ensemble techniques. 
+
+**BS in Industrial Engineering @ Universidad de las Américas Puebla (UDLAP)	(_2018-2022_)**
+- GPA of 3.7. Relevant courses: Uncertainty analysis, Integer and combinational optimization, Descriptive statistics, Python, Data science, Design of Experiments.
 
 
 ## Work Experience
