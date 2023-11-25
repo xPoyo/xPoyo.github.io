@@ -13,7 +13,7 @@
 
 
 ## Work Experience
-**Internship @ Grupo Porcícola Mexicano S.A. de C.V. (Veracruz) (_2021-2022_)**
+**Internship @ Grupo Porcícola Mexicano S.A. de C.V. (KEKÉN) (Veracruz) (_2021-2022_)**
 - Geofence development for transportation in Python (50% of the proyect).
 
 **Inventory and Financial Assistant @ Hogares HB, S.A. de C.V. (Veracruz) (_2018-2019_)**
